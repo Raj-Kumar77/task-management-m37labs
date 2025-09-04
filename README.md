@@ -2,20 +2,6 @@
 
 This is a fullstack project with a React frontend and a Node.js backend. The project is structured with separate `frontend` and `backend` folders.
 
----
-
-## 📁 Project Structure
-
-my-fullstack-app/
-├── frontend/          # React Frontend (e.g., Vite, CRA, etc.)
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/          # Backend (e.g., Express, MongoDB etc.)
-│   ├── src/
-│   └── package.json
-
 
 ## Backend folder setting
 -- Run 'npm i' command to install node modules folder
